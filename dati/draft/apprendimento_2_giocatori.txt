@@ -1,0 +1,105 @@
+##### 1) APPRENDIMENTO CON DRAFT
+Prima volta così (2 giocatori, draft): parto dalle correzioni di dati/correzioni_2_giocatori.json (2 giocatori) come punto di partenza.
+5 round da 3000 partite a 2 giocatori con draft, 2 processi.
+
+=== Round 1: 3000 partite in 166 s, 6000 giocatori registrati in tutto
+  Errore medio delle stime del bot sulle carte: 1.19 PV
+  Più sopravvalutate:  Underground Detonations (-10.4), Soletta (-9.2), Water Splitting Plant (-7.9), Aquifer Pumping (-7.2)
+  Più sottovalutate:   Arctic Algae (+4.2), Noctis City (+3.6), Capital (+3.5), Immigrant City (+3.4)
+  Verifica, bot con le correzioni contro bot di base: vittorie 74.6% ± 2.5, scarto +10.52 ± 0.99 punti (meglio)
+  Salvati: risultati/apprendimento/draft/2_giocatori/round_1/correzioni.json, risultati/apprendimento/draft/2_giocatori/round_1/potenza_carte.csv
+
+=== Round 2: 3000 partite in 165 s, 12000 giocatori registrati in tutto
+  Errore medio delle stime del bot sulle carte: 1.45 PV
+  Più sopravvalutate:  Ore Processor (-13.0), Steelworks (-12.2), Ironworks (-10.7), Underground Detonations (-10.5)
+  Più sottovalutate:   Noctis City (+3.9), Arctic Algae (+3.8), Immigrant City (+3.4), Capital (+3.3)
+  Verifica, bot con le correzioni contro bot di base: vittorie 74.2% ± 2.6, scarto +10.93 ± 1.01 punti (meglio)
+  Salvati: risultati/apprendimento/draft/2_giocatori/round_2/correzioni.json, risultati/apprendimento/draft/2_giocatori/round_2/potenza_carte.csv
+
+=== Round 3: 3000 partite in 158 s, 18000 giocatori registrati in tutto
+  Errore medio delle stime del bot sulle carte: 1.44 PV
+  Più sopravvalutate:  Ore Processor (-12.1), Steelworks (-12.0), Underground Detonations (-11.1), Ironworks (-10.2)
+  Più sottovalutate:   Noctis City (+3.9), Immigrant City (+3.7), Arctic Algae (+3.6), Domed Crater (+3.3)
+  Verifica, bot con le correzioni contro bot di base: vittorie 77.0% ± 2.4, scarto +11.91 ± 0.90 punti (meglio)
+  Salvati: risultati/apprendimento/draft/2_giocatori/round_3/correzioni.json, risultati/apprendimento/draft/2_giocatori/round_3/potenza_carte.csv
+
+=== Round 4: 3000 partite in 155 s, 24000 giocatori registrati in tutto
+  Errore medio delle stime del bot sulle carte: 1.46 PV
+  Più sopravvalutate:  Ore Processor (-12.3), Steelworks (-12.0), Underground Detonations (-10.7), Ironworks (-10.7)
+  Più sottovalutate:   Immigrant City (+4.2), Noctis City (+3.9), Arctic Algae (+3.7), Domed Crater (+3.2)
+  Verifica, bot con le correzioni contro bot di base: vittorie 76.4% ± 2.5, scarto +11.33 ± 0.91 punti (meglio)
+  Salvati: risultati/apprendimento/draft/2_giocatori/round_4/correzioni.json, risultati/apprendimento/draft/2_giocatori/round_4/potenza_carte.csv
+
+=== Round 5: 3000 partite in 152 s, 30000 giocatori registrati in tutto
+  Errore medio delle stime del bot sulle carte: 1.48 PV
+  Più sopravvalutate:  Steelworks (-12.4), Ore Processor (-12.1), Underground Detonations (-10.6), Ironworks (-10.3)
+  Più sottovalutate:   Immigrant City (+4.5), Noctis City (+3.8), Arctic Algae (+3.7), Domed Crater (+3.2)
+  Verifica, bot con le correzioni contro bot di base: vittorie 73.8% ± 2.6, scarto +10.92 ± 1.01 punti (meglio)
+  Salvati: risultati/apprendimento/draft/2_giocatori/round_5/correzioni.json, risultati/apprendimento/draft/2_giocatori/round_5/potenza_carte.csv
+
+CORPORAZIONI (potenza in punti rispetto alla media, giocate almeno 0 volte)
+  nome                              giocata  potenza  margine  correzione
+  EcoLine                              1734    +7.48    ±0.83       +1.68
+  Tharsis Republic                     1726    +6.63    ±0.82      +11.90
+  CrediCor                             1711    +2.19    ±0.83       +2.34
+  Cheung Shing MARS                    1793    +2.12    ±0.82       -3.82
+  Robinson Industries                  1804    +1.03    ±0.82       +5.66
+  Interplanetary Cinematics            1669    +0.41    ±0.83       +0.28
+  Saturn Systems                       1798    -0.04    ±0.83       -2.74
+  Mining Guild                         1755    -0.68    ±0.83       +1.90
+  United Nations Mars Initiative       1763    -0.77    ±0.83       +5.40
+  Helion                               1787    -0.95    ±0.85       -6.56
+  Teractor                             1795    -1.26    ±0.83       -2.99
+  Valley Trust                         1740    -1.40    ±0.92       -2.50
+  Thorgate                             1826    -1.98    ±0.83       -2.85
+  Inventrix                            1814    -2.21    ±0.83       -2.15
+  Vitor                                1704    -3.28    ±0.83       +0.13
+  Point Luna                           1811    -3.42    ±0.82       -3.49
+  PhoboLog                             1770    -3.52    ±0.85       -1.61
+
+PRELUDI (potenza in punti rispetto alla media, giocate almeno 150 volte)
+  nome                              giocata  potenza  margine  correzione
+  Business Empire                      3220    +1.44    ±0.60       -1.47
+  Metals Company                       2776    +1.28    ±0.61       -0.85
+  Nitrogen Shipment                    3019    +0.96    ±0.59       +0.89
+  UNMI Contractor                      3048    +0.89    ±0.60       -0.27
+  Dome Farming                         3365    +0.78    ±0.59       +0.39
+  Polar Industries                     3403    +0.76    ±0.58       -1.26
+  ...                             
+  Power Generation                     1535    -1.63    ±0.73       +0.09
+  Society Support                      2463    -1.77    ±0.63       -0.82
+  Biolab                               1255    -1.84    ±0.75       +0.39
+  Galilean Mining                       999    -1.93    ±0.81       -1.90
+  Supplier                              618    -2.05    ±0.96       -0.36
+  Orbital Construction Yard             447    -2.82    ±1.13       -1.77
+
+CARTE PROGETTO (potenza in punti rispetto alla media, giocate almeno 150 volte)
+  nome                              giocata  potenza  margine  correzione
+  Open City                            3396    +2.65    ±0.40       +2.03
+  Immigrant City                       2154    +2.60    ±0.47       +4.46
+  Designed Microorganisms              3756    +2.57    ±0.39       +1.19
+  Domed Crater                         4080    +2.49    ±0.36       +3.18
+  Giant Ice Asteroid                   7846    +2.42    ±0.26       +1.12
+  Capital                              3803    +2.31    ±0.39       +2.91
+  Methane From Titan                   4869    +2.23    ±0.34       -0.93
+  Nitrogen-Rich Asteroid               7457    +2.20    ±0.27       -0.03
+  Noctis City                          6321    +2.13    ±0.30       +3.79
+  Deimos Down                          7639    +2.07    ±0.27       +1.38
+  Mohole Area                          3743    +2.01    ±0.39       -3.29
+  Kelp Farming                         7813    +1.98    ±0.26       +1.09
+  ...                             
+  Restricted Area                      1001    -2.18    ±0.87       -0.32
+  Equatorial Magnetizer                2210    -2.21    ±0.53       -2.11
+  Nitrite Reducing Bacteria             950    -2.22    ±0.75       -6.42
+  Special Design                        913    -2.30    ±0.77       -0.35
+  Ore Processor                         734    -2.40    ±0.81      -12.12
+  Mars University                      1063    -2.50    ±0.78       -2.74
+  Olympus Conference                    659    -2.60    ±1.01       -1.96
+  Development Center                    390    -2.86    ±1.19       -0.86
+  Space Mirrors                         463    -2.94    ±1.10       -1.83
+  Business Contacts                     186    -3.21    ±1.45       -1.98
+  Inventors' Guild                      157    -4.25    ±1.75       -2.41
+  Regolith Eaters                       454    -4.44    ±1.00      -10.12
+
+'potenza' = punti in più (o in meno) rispetto a una carta media, a parità di contesto.
+Se il margine è più grande della potenza, la carta non si distingue dalla media.

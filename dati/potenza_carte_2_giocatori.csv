@@ -1,0 +1,266 @@
+﻿tipo,nome,giocata_pesata,potenza_pv,margine,correzione_pv
+carta,Open City,1648.8,2.94,0.43,1.85
+carta,Noctis City,3487.4,2.86,0.3,4.04
+carta,Giant Ice Asteroid,4423.5,2.67,0.27,1.23
+carta,Designed Microorganisms,2075.7,2.5,0.39,0.99
+carta,Domed Crater,2190.0,2.4,0.38,2.97
+carta,Mohole Area,2189.9,2.22,0.38,-2.7
+carta,Kelp Farming,4433.8,2.03,0.26,1.05
+carta,Immigrant City,800.6,2.0,0.61,2.98
+carta,Capital,2216.4,1.98,0.38,2.15
+carta,Deimos Down,4252.8,1.91,0.27,1.34
+carta,Farming,1833.2,1.89,0.4,0.61
+carta,Nitrogen-Rich Asteroid,4208.7,1.89,0.27,0.02
+carta,Cupola City,2631.9,1.88,0.35,2.48
+carta,Methane From Titan,3127.5,1.81,0.32,-0.94
+carta,Trees,3306.4,1.63,0.3,0.47
+carta,Protected Valley,4385.3,1.55,0.27,1.48
+carta,Arctic Algae,2298.2,1.45,0.37,3.95
+carta,Fish,2811.2,1.37,0.33,0.97
+carta,Lake Marineris,3901.3,1.28,0.28,0.01
+carta,Bushes,4340.8,1.23,0.27,0.75
+carta,Mangrove,3325.3,1.11,0.3,0.31
+carta,Natural Preserve,2439.1,1.05,0.36,1.76
+carta,Tundra Farming,3917.2,1.0,0.28,0.13
+carta,Urbanized Area,2208.9,0.98,0.37,1.37
+carta,Interstellar Colony Ship,126.9,0.95,1.37,-0.43
+carta,Comet,4280.7,0.95,0.27,1.21
+carta,Heat Trappers,1416.9,0.92,0.46,-1.45
+carta,Birds,2071.7,0.92,0.39,1.14
+carta,Robotic Workforce,1337.1,0.92,0.48,-1.57
+carta,Imported Nitrogen,978.1,0.9,0.56,-0.5
+carta,Hackers,1768.8,0.87,0.42,-0.57
+carta,Commercial District,3275.1,0.86,0.31,0.45
+carta,Small Animals,3216.7,0.83,0.31,0.57
+carta,GHG Factories,1557.6,0.83,0.44,-3.51
+carta,Beam From A Thorium Asteroid,683.7,0.83,0.68,-3.2
+carta,Magnetic Field Generators,1258.0,0.82,0.52,0.99
+carta,Terraforming Ganymede,1053.2,0.79,0.54,-1.36
+carta,Research Outpost,3880.7,0.77,0.28,0.52
+carta,Livestock,1517.6,0.76,0.45,0.71
+carta,Nuclear Zone,3284.3,0.74,0.3,1.34
+carta,Big Asteroid,4217.1,0.73,0.27,0.76
+carta,Immigration Shuttles,2370.4,0.73,0.36,-1.51
+carta,Corporate Stronghold,3025.3,0.72,0.32,2.33
+carta,Aerobraked Ammonia Asteroid,1524.5,0.72,0.45,-2.81
+carta,Insects,2967.2,0.67,0.32,0.53
+carta,Anti-Gravity Technology,47.2,0.66,1.88,0.24
+carta,Nitrophilic Moss,2754.7,0.62,0.33,0.24
+carta,Advanced Ecosystems,1787.7,0.6,0.42,0.11
+carta,Strip Mine,1839.4,0.5,0.42,-0.52
+carta,Mining Rights,4262.4,0.45,0.27,1.59
+carta,Medical Lab,3655.7,0.42,0.29,-0.04
+carta,Eos Chasma National Park,4127.9,0.4,0.27,0.48
+carta,Cloud Seeding,2145.6,0.39,0.38,-0.18
+carta,Quantum Extractor,148.7,0.34,1.3,-1.82
+carta,Large Convoy,2655.6,0.34,0.34,-1.24
+carta,Soletta,791.4,0.33,0.62,-8.03
+carta,Asteroid Mining Consortium,1615.3,0.3,0.43,-1.04
+carta,ArchaeBacteria,1758.1,0.28,0.42,-0.23
+carta,Ice Asteroid,3600.7,0.27,0.29,1.11
+carta,Space Hotels,1232.6,0.26,0.51,-1.55
+carta,Herbivores,2935.3,0.26,0.32,0.35
+carta,Carbonate Processing,1813.0,0.24,0.41,-2.24
+carta,Towing A Comet,4038.1,0.23,0.28,0.92
+carta,Imported Hydrogen,3896.9,0.23,0.28,0.64
+carta,Cartel,1125.3,0.21,0.53,-0.9
+carta,Asteroid,4192.0,0.2,0.27,0.83
+carta,Algae,3911.3,0.19,0.28,0.81
+carta,Biomass Combustors,1842.4,0.14,0.41,0.12
+carta,Psychrophiles,276.4,0.14,0.98,-1.4
+carta,Lava Flows,3303.3,0.08,0.31,0.92
+carta,Magnetic Field Dome,2715.7,0.07,0.35,0.98
+carta,Underground City,1408.5,0.03,0.48,1.9
+carta,Lichen,2252.9,0.01,0.37,-0.01
+carta,Breathing Filters,1025.1,-0.02,0.54,-0.32
+carta,Miranda Resort,510.0,-0.07,0.76,-1.84
+carta,Mining Area,3652.0,-0.07,0.29,0.52
+carta,Grass,3764.1,-0.08,0.29,0.4
+carta,Black Polar Dust,1924.7,-0.12,0.4,-1.99
+carta,Industrial Microbes,3042.0,-0.13,0.32,0.3
+carta,Import of Advanced GHG,2148.3,-0.15,0.38,-1.59
+carta,Deep Well Heating,3509.6,-0.16,0.3,0.41
+carta,Ecological Zone,3022.6,-0.16,0.32,-0.31
+carta,Research,816.4,-0.17,0.6,-0.06
+carta,Ganymede Colony,661.2,-0.17,0.66,-2.2
+carta,Insulation,832.3,-0.19,0.59,0.52
+carta,Noctis Farming,4000.2,-0.19,0.28,0.2
+carta,Fuel Factory,2760.1,-0.19,0.34,-0.12
+carta,Titanium Mine,3330.9,-0.2,0.3,-0.33
+carta,Heather,4119.8,-0.22,0.27,0.42
+carta,Energy Tapping,880.5,-0.22,0.59,-0.54
+carta,Building Industries,2785.9,-0.24,0.33,0.19
+carta,Io Mining Industries,1121.9,-0.27,0.53,-2.26
+carta,Virus,3753.3,-0.27,0.28,0.75
+carta,Local Heat Trapping,562.2,-0.28,0.72,-0.4
+carta,Sponsors,2651.4,-0.28,0.34,-0.33
+carta,Artificial Lake,3926.8,-0.3,0.28,0.52
+carta,Bribed Committee,3179.8,-0.31,0.31,-0.06
+carta,Imported GHG,2654.3,-0.32,0.34,-0.22
+carta,Moss,2538.6,-0.33,0.35,0.01
+carta,Rad-Chem Factory,3512.7,-0.33,0.3,-0.08
+carta,Electro Catapult,860.3,-0.33,0.59,-0.21
+carta,Fusion Power,2212.9,-0.34,0.38,0.01
+carta,Great Escarpment Consortium,990.3,-0.34,0.55,-0.63
+carta,Windmills,3740.9,-0.35,0.29,0.41
+carta,Lava Tube Settlement,2209.0,-0.36,0.38,1.27
+carta,Giant Space Mirror,2124.1,-0.37,0.39,-0.18
+carta,Caretaker Contract,1092.6,-0.39,0.52,0.59
+carta,Callisto Penal Mines,2201.1,-0.39,0.37,-0.69
+carta,Acquired Company,1274.6,-0.39,0.49,-1.48
+carta,Gene Repair,1476.2,-0.4,0.47,-0.63
+carta,Tropical Resort,1146.6,-0.41,0.51,-0.06
+carta,Plantation,2757.6,-0.42,0.34,0.39
+carta,Satellites,1479.6,-0.43,0.46,-1.1
+carta,Media Archives,674.1,-0.44,0.66,-0.24
+carta,Shuttles,2473.4,-0.45,0.36,0.56
+carta,Phobos Space Haven,3880.3,-0.46,0.28,-2.07
+carta,CEO's Favorite Project,480.6,-0.46,0.77,0.06
+carta,Toll Station,479.7,-0.46,0.78,-0.32
+carta,Space Elevator,3182.4,-0.47,0.31,-1.31
+carta,Mine,3693.0,-0.47,0.29,-0.04
+carta,Food Factory,2059.5,-0.49,0.38,-0.35
+carta,Solar Wind Power,3242.5,-0.5,0.31,0.5
+carta,Zeppelins,1844.9,-0.5,0.4,-0.34
+carta,Flooding,2828.9,-0.53,0.33,0.51
+carta,Hired Raiders,3005.0,-0.54,0.32,0.1
+carta,Rover Construction,3729.9,-0.54,0.29,0.01
+carta,Mass Converter,107.7,-0.55,1.46,-3.72
+carta,Release of Inert Gases,3795.0,-0.57,0.28,-0.38
+carta,Earth Catapult,499.2,-0.58,0.76,-3.52
+carta,Earth Office,405.1,-0.61,0.83,-1.49
+carta,Ice Cap Melting,3122.4,-0.61,0.31,0.09
+carta,Greenhouses,2667.8,-0.61,0.34,0.83
+carta,Water Splitting Plant,470.1,-0.62,0.78,-5.55
+carta,Geothermal Power,2287.7,-0.62,0.37,-0.14
+carta,Investment Loan,1509.2,-0.63,0.45,0.07
+carta,Great Dam,3288.8,-0.66,0.31,-0.24
+carta,Lightning Harvest,1318.4,-0.67,0.5,-0.3
+carta,Rad-Suits,3304.5,-0.67,0.3,-0.1
+carta,Worms,1187.8,-0.68,0.51,-0.08
+carta,Adapted Lichen,2181.2,-0.69,0.37,-0.28
+carta,Mining Expedition,3610.4,-0.69,0.29,0.09
+carta,Tectonic Stress Power,1840.5,-0.72,0.42,-0.47
+carta,Soil Factory,2384.1,-0.72,0.36,0.51
+carta,Subterranean Reservoir,3260.1,-0.73,0.31,0.45
+carta,House Printing,3917.6,-0.74,0.28,0.02
+carta,Power Plant,3318.5,-0.77,0.31,0.03
+carta,Power Supply Consortium,523.9,-0.8,0.74,-1.14
+carta,Optimal Aerobraking,2727.0,-0.81,0.33,0.27
+carta,Industrial Center,1495.0,-0.83,0.45,-1.23
+carta,Permafrost Extraction,3482.6,-0.86,0.3,0.2
+carta,Mineral Deposit,2880.9,-0.86,0.32,0.31
+carta,Sabotage,3202.5,-0.87,0.31,-0.14
+carta,Convoy From Europa,2611.7,-0.88,0.34,0.15
+carta,Viral Enhancers,2746.3,-0.9,0.34,0.57
+carta,Vesta Shipyard,3348.1,-0.93,0.3,-0.55
+carta,Predators,14.9,-0.95,2.34,0.31
+carta,Ants,1125.6,-1.01,0.51,0.53
+carta,Martian Rails,568.4,-1.02,0.71,0.17
+carta,Space Station,990.4,-1.05,0.55,-0.1
+carta,Land Claim,1777.0,-1.07,0.41,0.24
+carta,Power Grid,127.7,-1.08,1.36,-3.04
+carta,Wave Power,3469.3,-1.08,0.3,-0.04
+carta,Solar Power,3330.9,-1.09,0.3,0.09
+carta,Micro-Mills,1916.7,-1.11,0.4,-0.89
+carta,Invention Contest,1180.1,-1.12,0.5,-0.35
+carta,Lagrange Observatory,1761.0,-1.14,0.42,-0.12
+carta,SF Memorial,2368.9,-1.15,0.36,-0.1
+carta,Peroxide Power,3060.6,-1.16,0.32,0.09
+carta,Advanced Alloys,139.9,-1.16,1.3,-0.96
+carta,Pets,1438.3,-1.18,0.46,-2.45
+carta,Media Group,1631.2,-1.19,0.43,-0.5
+carta,Fueled Generators,2089.5,-1.2,0.38,0.41
+carta,Tardigrades,2422.5,-1.25,0.35,-0.08
+carta,Energy Saving,216.2,-1.29,1.1,-2.2
+carta,Olympus Conference,2293.8,-1.31,0.37,-1.21
+carta,Colonizer Training Camp,1703.5,-1.32,0.42,0.37
+carta,Trans-Neptune Probe,152.6,-1.34,1.26,-1.25
+carta,Standard Technology,1627.7,-1.38,0.43,-0.17
+carta,Indentured Workers,94.7,-1.42,1.5,-0.63
+carta,Artificial Photosynthesis,2032.8,-1.45,0.39,0.2
+carta,Decomposers,2266.4,-1.46,0.37,-1.67
+carta,Technology Demonstration,1041.0,-1.47,0.53,-0.58
+carta,Physics Complex,442.3,-1.48,0.81,-5.05
+carta,Equatorial Magnetizer,3101.8,-1.48,0.33,-1.11
+carta,Nuclear Power,2036.8,-1.49,0.4,0.02
+carta,Security Fleet,963.7,-1.54,0.56,-3.07
+carta,Symbiotic Fungus,369.9,-1.56,0.86,-0.73
+carta,Steelworks,389.6,-1.56,0.85,-9.18
+carta,Aquifer Pumping,1043.4,-1.58,0.54,-8.22
+carta,Restricted Area,1601.3,-1.59,0.44,0.95
+carta,Adaptation Technology,90.9,-1.6,1.52,-1.07
+carta,AI Central,299.1,-1.67,0.97,-1.04
+carta,Research Coordination,365.0,-1.68,0.87,-0.25
+carta,Lunar Beam,1179.6,-1.73,0.51,-2.29
+carta,Mars University,2135.8,-1.74,0.38,-1.51
+carta,Extreme-Cold Fungus,1091.8,-1.81,0.53,-0.03
+carta,Asteroid Mining,746.8,-1.83,0.63,-2.88
+carta,Dust Seals,453.6,-1.84,0.79,-0.58
+carta,Water Import From Europa,624.1,-1.88,0.69,-4.14
+carta,Nitrite Reducing Bacteria,1262.1,-1.93,0.49,-5.43
+carta,Martian Survey,92.2,-2.03,1.52,0.09
+carta,Underground Detonations,1535.6,-2.06,0.46,-9.74
+carta,Ironworks,448.3,-2.15,0.8,-8.25
+carta,Business Contacts,265.7,-2.29,1.0,-0.95
+carta,Search For Life,662.4,-2.35,0.66,-3.33
+carta,Space Mirrors,1094.1,-2.36,0.52,-0.99
+carta,Power Infrastructure,452.1,-2.37,0.79,-0.76
+carta,Ore Processor,391.0,-2.39,0.85,-9.84
+carta,Special Design,15.4,-2.42,2.33,-0.43
+carta,GHG Producing Bacteria,494.6,-2.49,0.76,-5.54
+carta,Development Center,335.0,-2.64,0.91,-0.78
+carta,Inventors' Guild,36.5,-3.22,1.99,-1.54
+carta,Regolith Eaters,476.9,-4.26,0.77,-8.52
+carta,Business Network,475.2,-4.61,0.77,-1.95
+preludio,Business Empire,1707.4,1.61,0.61,-1.43
+preludio,UNMI Contractor,1671.8,1.2,0.61,-0.23
+preludio,Metals Company,1605.6,1.15,0.61,-1.12
+preludio,Dome Farming,1837.8,1.11,0.6,0.83
+preludio,Polar Industries,1889.0,0.87,0.59,-0.83
+preludio,Nitrogen Shipment,1734.4,0.81,0.6,0.54
+preludio,Great Aquifer,909.3,0.65,0.71,1.41
+preludio,Mining Operations,1183.8,0.43,0.66,0.38
+preludio,Huge Asteroid,1416.3,0.39,0.63,1.11
+preludio,Allied Bank,1005.4,0.37,0.69,-1.19
+preludio,Mohole Excavation,1857.0,0.22,0.59,-1.71
+preludio,Smelting Plant,1162.8,0.16,0.66,0.4
+preludio,Early Settlement,1848.0,-0.16,0.6,2.85
+preludio,Aquifer Turbines,1171.2,-0.18,0.67,0.24
+preludio,Biofuels,1701.9,-0.26,0.61,1.33
+preludio,Martian Industries,731.9,-0.37,0.76,0.78
+preludio,Experimental Forest,722.5,-0.5,0.77,1.48
+preludio,Acquired Space Agency,14.6,-0.59,2.36,0.41
+preludio,Mohole,1895.1,-0.61,0.59,-3.07
+preludio,Metal-Rich Asteroid,394.8,-0.66,0.94,0.38
+preludio,Biosphere Support,1817.9,-0.67,0.6,1.46
+preludio,Ecology Experts,114.6,-1.07,1.45,0.05
+preludio,Self-Sufficient Settlement,587.1,-1.17,0.82,1.24
+preludio,Supply Drop,214.1,-1.27,1.16,0.61
+preludio,Loan,0.7,-1.27,2.72,0.76
+preludio,Power Generation,807.5,-1.44,0.75,-0.16
+preludio,Orbital Construction Yard,449.4,-1.44,0.9,-0.2
+preludio,Donation,38.3,-1.66,1.98,-0.34
+preludio,Research Network,47.5,-1.7,1.88,-0.17
+preludio,Supplier,251.9,-1.74,1.1,0.18
+preludio,Society Support,1502.5,-1.79,0.63,-0.41
+preludio,Biolab,688.0,-2.16,0.78,-0.08
+preludio,Galilean Mining,864.5,-2.4,0.73,-2.4
+preludio,Io Research Outpost,139.4,-2.59,1.36,-0.28
+corporazione,EcoLine,964.6,7.58,0.85,1.61
+corporazione,Tharsis Republic,963.8,5.28,0.84,10.05
+corporazione,Cheung Shing MARS,1002.4,2.18,0.84,-3.91
+corporazione,CrediCor,948.6,1.63,0.85,2.11
+corporazione,Saturn Systems,983.0,1.01,0.85,-1.94
+corporazione,Interplanetary Cinematics,933.8,0.74,0.85,0.12
+corporazione,Robinson Industries,998.9,0.4,0.84,5.16
+corporazione,Valley Trust,972.4,-0.37,0.94,-1.89
+corporazione,Mining Guild,954.8,-0.41,0.85,2.58
+corporazione,Helion,983.9,-0.76,0.85,-5.33
+corporazione,Teractor,988.5,-0.96,0.85,-3.12
+corporazione,United Nations Mars Initiative,992.0,-1.6,0.84,4.53
+corporazione,Inventrix,1001.4,-1.93,0.84,-1.86
+corporazione,Thorgate,1011.5,-2.09,0.84,-3.18
+corporazione,Point Luna,996.5,-2.81,0.84,-2.74
+corporazione,Vitor,933.2,-3.56,0.85,0.06
+corporazione,PhoboLog,1009.3,-3.98,0.85,-1.71
