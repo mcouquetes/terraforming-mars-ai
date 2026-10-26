@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "terraforming-mars-ai"
+version = "0.1.0"
+description = "Simulatore di Terraforming Mars con IA (bot a regole, MCTS, apprendimento) e statistiche sulle carte"
+readme = "README.md"
+# Licenza: GPL-3.0-or-later, vedi il file LICENSE.
+authors = [{name = "mcouquetes"}]
+requires-python = ">=3.10"
+dependencies = ["numpy"]       # per la regressione della potenza delle carte (learn.py)
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.urls]
+Repository = "https://github.com/mcouquetes/terraforming-mars-ai"
+
+# Quali parti sono codice: il pacchetto tm_sim, gli strumenti e i programmi da lanciare.
+[tool.setuptools]
+packages = ["tm_sim", "tools"]
+py-modules = ["play", "simulate", "learn", "insegna"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
